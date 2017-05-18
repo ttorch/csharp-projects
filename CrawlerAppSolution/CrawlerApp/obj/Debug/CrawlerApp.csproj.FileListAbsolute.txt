@@ -1,0 +1,9 @@
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\CrawlerApp.exe.config
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\CrawlerApp.exe
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\CrawlerApp.pdb
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\obj\Debug\CrawlerApp.exe
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\obj\Debug\CrawlerApp.pdb
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\HtmlAgilityPack.dll
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\HtmlAgilityPack.pdb
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\bin\Debug\HtmlAgilityPack.xml
+D:\Learning_Reference\CSHARP\crawler\CrawlerAppSolution\CrawlerApp\obj\Debug\CrawlerApp.csprojResolveAssemblyReference.cache
